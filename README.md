@@ -52,7 +52,7 @@ MyPortfolio/
 
 📸 Screenshots
 
-(Add screenshots or demo GIF here for better presentation)
+[project screenshot](assests/screenshot.png)
 
 
 ---
