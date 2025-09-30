@@ -52,7 +52,7 @@ MyPortfolio/
 
 📸 Screenshots
 
-[project screenshot](assests/screenshot.png)
+[project screenshot](screenshot.png)
 
 
 ---
